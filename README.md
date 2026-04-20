@@ -1,4 +1,4 @@
-# python-RENT.calculator
-this is my python repo.
+# python.MINIPROJECTS
+this is my python repositories.
 <br>
 Author - Ishika Verma
