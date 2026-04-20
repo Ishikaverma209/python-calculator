@@ -1,2 +1,3 @@
 # python-calculator
-this is my python repo
+this is my python repo.
+Author - Ishika Verma
